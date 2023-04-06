@@ -8,7 +8,7 @@
     - deviceSupportをクリック
     - [欲しいバージョン].zipをクリック
     - 右上のDownloadボタンを押してダウンロード
-    - ![download](download.png)
+    ![download](download.png)
   
 3. ダウンロードしたファイルを移動する
     - ダウンロードした.zipファイルをダブルクリックして展開する
